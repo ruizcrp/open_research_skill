@@ -11,7 +11,7 @@ tags:
   - arXiv
 authors:
   - name: Christian Ruiz-Palmero
-    orcid: https://orcid.org/XXXX-XXXX-XXXX-XXXX
+    orcid: https://orcid.org/0009-0007-7601-7932
     affiliation: "1"
 affiliations:
   - name: "1"
