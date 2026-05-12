@@ -9,7 +9,7 @@ description: >-
 authors:
   - family-names: Ruiz-Palmero
     given-names: Christian
-    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # TODO: add your ORCID
+    orcid: "https://orcid.org/0009-0007-7601-7932"  # TODO: add your ORCID
 identifiers:
   - type: doi
     value: "TODO: add Zenodo DOI after archiving"
