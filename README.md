@@ -154,7 +154,7 @@ MIT License — feel free to use, modify, and contribute.
   author = {Ruiz-Palmero, Christian},
   year = {2026},
   version = {1.0.0},
-  url = {https://github.com/ruizcrp/porphyromics},
+  url = {https://github.com/ruizcrp/open_research_skill},
   license = {MIT}
 }
 ```
@@ -180,7 +180,7 @@ If you use this tool in your research, please cite it:
   author = {Ruiz-Palmero, Christian},
   year = {2026},
   version = {1.0.0},
-  url = {https://github.com/ruizcrp/porphyromics},
+  url = {https://github.com/ruizcrp/open_research_skill},
   license = {MIT}
 }
 ```
