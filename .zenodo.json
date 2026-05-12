@@ -1,0 +1,23 @@
+{
+  "upload_type": "software",
+  "publication_date": "2026-05-12",
+  "description": "A multi-source open-access research skill for autonomous AI agents with citation provenance tracking",
+  "title": "open_research_skill: Multi-Source Open-Access Research for AI Agents",
+  "creators": [
+    {
+      "name": "Ruiz-Palmero, Christian",
+      "orcid": "XXXX-XXXX-XXXX-XXXX"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "research",
+    "open-access",
+    "citation-provenance",
+    "AI-agents",
+    "literature-review",
+    "openalex",
+    "arxiv"
+  ]
+}

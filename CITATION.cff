@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "open_research_skill"
+type: software
+description: >-
+  A multi-source open-access research skill for autonomous AI agents.
+  Integrates OpenAlex, arXiv, CrossRef, Semantic Scholar, and PubMed Central
+  with a four-tier citation provenance system that prevents hallucinated
+  references by requiring each citation to be grounded in actual document content.
+authors:
+  - family-names: Ruiz-Palmero
+    given-names: Christian
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # TODO: add your ORCID
+identifiers:
+  - type: doi
+    value: "TODO: add Zenodo DOI after archiving"
+  - type: url
+    value: "https://github.com/ruizcrp/porphyromics"
+repository-code: "https://github.com/ruizcrp/porphyromics"
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+keywords:
+  - research
+  - open-access
+  - citation-provenance
+  - academic-search
+  - AI-agents
+  - literature-review
+  - openalex
+  - arxiv
+version: "1.0.0"
+release-date: "2026-05-12"
+abstract: >-
+  open_research_skill is a modular research tool for AI agents that automates
+  literature search, paper retrieval, full-text reading, and citation management
+  across five open-access academic sources. Its key innovation is a four-tier
+  citation provenance system that prevents hallucinated references by requiring
+  each citation to be grounded in actual document content, with verification
+  tiers ranging from full PDF parsing with page-level references to metadata-only
+  discovery.
